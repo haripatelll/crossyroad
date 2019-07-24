@@ -19,7 +19,7 @@ int main()
         cGame game(30, 5);
         game.Run();
         cout << END_MESG << endl;
-        cout << "Would You Like to Play again?" << endl;
+        cout << AGAIN << endl;
         getchar();
         cin > check;
         if (check == "Yes") 
