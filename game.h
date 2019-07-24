@@ -3,7 +3,9 @@
 #include <vector>
 #include <conio.h>
 #include <time.h>
+#include <string>
 using namespace std;
+
 
 // Class for the player
 class Player
