@@ -73,6 +73,7 @@ private:
 	Player * player;
 	vector<Lane*> map;
 public:
+	// CONSTRUCTOR
 	GameGeneration(int w = 20, int h = 10)
 	{
 		numberOfLanes = h;
