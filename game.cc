@@ -18,7 +18,7 @@ int main()
     // Simulate the Game
         cGame game(30, 5);
         game.Run();
-        cout << "Game over!" << endl;
+        cout << END_MESG << endl;
         cout << "Would You Like to Play again?" << endl;
         getchar();
         cin > check;

@@ -6,6 +6,7 @@
 #include <string>
 using namespace std;
 
+const string END_MESG = "Game over!"
 
 // Class for the player
 class Player
