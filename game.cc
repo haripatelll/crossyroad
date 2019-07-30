@@ -13,7 +13,7 @@ int main()
 {   
     while (1) 
     {
-    // Randomization for the time
+    // Randomization for the time 
         srand(time(NULL));
     // Simulate the Game
         cGame game(30, 5);
