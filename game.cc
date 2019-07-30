@@ -9,6 +9,7 @@ using namespace std;
 
 string Check;
 
+
 int main()
 {   
     while (1) 
