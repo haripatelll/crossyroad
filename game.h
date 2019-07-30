@@ -62,6 +62,7 @@ public:
 	void Directionchange() { right = !right; }
 };
 
+
 // Class for the Game
 class GameGeneration
 {
